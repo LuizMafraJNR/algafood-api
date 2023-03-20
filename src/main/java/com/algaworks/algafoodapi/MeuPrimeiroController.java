@@ -11,5 +11,6 @@ public class MeuPrimeiroController
 	@ResponseBody
 	public String hello(){
 		return "Hello";
+
 	}
 }
